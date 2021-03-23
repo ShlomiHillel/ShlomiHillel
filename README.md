@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShlomiHillel
 
-- 🌱 I’m currently learning at a 'Israel Innovation Authority' coding bootcamp
+- 🌱 I’m currently learning full stack dev at a coding bootcamp
 
 
 
