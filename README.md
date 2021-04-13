@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Shlomi Hillel
 - 🌱 I’m currently learning full stack dev at a coding bootcamp
 - 👀 I’m interested in technology in all its forms.
+- 📫 How to reach me ...
 
 
 <!---
