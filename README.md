@@ -17,19 +17,15 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Languages and Technologies
-
 These are some of the languages and technologies that I've used in the past and that I am currenly using :
-### Languages
 
+### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](http://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-000000?style=flat&logo=mongodb)
 
-
-
 ### Technologies
-
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
