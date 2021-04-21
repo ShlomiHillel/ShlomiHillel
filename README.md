@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ![Neo4j](https://img.shields.io/badge/-Neo4j-000000?style=flat&logo=neo4j)
 --->
 
-## Languages and Technologies
+### Languages and Technologies
 These are some of the languages and technologies that I've used in the past and that I am currenly using :
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) 
