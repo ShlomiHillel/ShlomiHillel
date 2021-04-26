@@ -31,7 +31,6 @@ These are some of the languages and technologies that I've used in the past and 
 ![NoSQL](https://img.shields.io/badge/-NoSQL-000000?style=flat&logo=mongodb)
 ![Mongoose](http://img.shields.io/badge/-Mongoose-000000?style=flat&logo=Mongoose)
 ![Redux](http://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux)
-![Material-UI](https://img.shields.io/badge/-MaterialUI-000000?style=flat&logo=Material-UI)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 
