@@ -29,6 +29,5 @@ These are some of the languages and technologies that I've used in the past and 
 ![Express](http://img.shields.io/badge/-Express-000000?style=flat&logo=Express)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-000000?style=flat&logo=mongodb)
 ![Mongoose](http://img.shields.io/badge/-Mongoose-000000?style=flat&logo=Mongoose)
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
