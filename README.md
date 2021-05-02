@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-000000?style=flat&logo=neo4j)
 ![Redux](http://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux)
+![NoSQL](https://img.shields.io/badge/-NoSQL-000000?style=flat&logo=mongodb)
 --->
 
 ## Languages and Technologies
@@ -27,7 +28,6 @@ These are some of the languages and technologies that I've used in the past and 
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
 ![Express](http://img.shields.io/badge/-Express-000000?style=flat&logo=Express)
-![NoSQL](https://img.shields.io/badge/-NoSQL-000000?style=flat&logo=mongodb)
 ![Mongoose](http://img.shields.io/badge/-Mongoose-000000?style=flat&logo=Mongoose)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
