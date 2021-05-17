@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Shlomi Hillel
-- 🌱 I’m a full stack dev at a coding bootcamp,
+- 🌱 I’m a full Stack Developer MERN,
 - 👀 I’m interested in technology in all its forms.
 
 
