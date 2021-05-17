@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Shlomi Hillel
-- 🌱 I’m currently learning full stack dev at a coding bootcamp
+- 🌱 I’m a full stack dev at a coding bootcamp,
 - 👀 I’m interested in technology in all its forms.
 
 
@@ -10,8 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
- ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-000000?style=flat&logo=neo4j)
 ![Redux](http://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux)
