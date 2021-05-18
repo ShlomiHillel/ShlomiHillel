@@ -1,6 +1,10 @@
 # 👋 Hi, I’m Shlomi Hillel
 - 🌱 I’m a full Stack Developer MERN,
 - 👀 I’m interested in technology in all its forms.
+-  📫 you can reach me: 
+ [whatsapp]: https://wa.me/+972547806008
+[linkedin]: https://www.linkedin.com/in/shlomihillel/
+[webdevplaylists]: #
 
 
 
@@ -10,9 +14,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-[whatsapp]: https://wa.me/+972547806008
-[linkedin]: https://www.linkedin.com/in/shlomihillel/
-[webdevplaylists]: #
+
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
