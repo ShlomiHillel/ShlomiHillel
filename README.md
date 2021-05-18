@@ -1,12 +1,8 @@
 # 👋 Hi, I’m Shlomi Hillel
 - 🌱 I’m a full Stack Developer MERN,
 - 👀 I’m interested in technology in all its forms.
+- 📫 you can reach me here -> 
 
-
-### 📫 you can reach me: 
-
-
-[<img align="left" alt="non" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="non" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -20,6 +16,8 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+[<img align="left" alt="non" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
@@ -31,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Languages and Technologies
-These are some of the languages and technologies that I've used in the past and that I am currenly using :
+These are some of the languages and technologies that I've used in the past / I am currenly using :
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
