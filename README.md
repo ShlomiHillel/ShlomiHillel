@@ -35,23 +35,23 @@ You can click the Preview link to take a look at your changes.
 These are some of the languages and technologies that I've used in the past / I am currenly using :
 
 [<img align="" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylists]
-![VS Code](https://img.shields.io/badge/-vscode-000000?style=flat&logo=vscode)--
+![VS Code](https://img.shields.io/badge/-vscode-000000?style=flat&logo=vscode)-
 [<img align="" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webdevplaylists]
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=)--
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=)-
 [<img align="" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylists]
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=)--
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=)-
 [<img align="" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][webdevplaylists]
-![CSS3](http://img.shields.io/badge/-CSS3-000000?style=flat&logo=)--
+![CSS3](http://img.shields.io/badge/-CSS3-000000?style=flat&logo=)-
 [<img align="" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][webdevplaylists]
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=&logoColor=61DAFB)--
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=&logoColor=61DAFB)-
 [<img align="" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylists]
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=&logoColor=339933)--
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=&logoColor=339933)-
 [<img align="" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylists]
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=)--
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=)-
 [<img align="" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylists]
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=&logoColor=F05032)--
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=&logoColor=F05032)-
 [<img align="" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylists]
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=&logoColor=181717)--
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=&logoColor=181717)
 
 
 
