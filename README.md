@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Shlomi Hillel
-- 🌱 I’m a full Stack Developer MERN,
+- 🌱 I’m a full Stack Web Developer (MERN),
 - 👀 I’m interested in technology in all its forms.
 - 📫 you can reach me here -> [<img align="center" alt="non" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
