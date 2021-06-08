@@ -4,7 +4,7 @@
 - 📫 you can reach me here -> [<img align="center" alt="non" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
+<br />
 <br/>
 
 <!---
@@ -54,7 +54,7 @@ These are some of the languages and technologies that I've used in the past / I 
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=&logoColor=181717)
 
 
-
+<br />
 ---
 
  <img align="left" alt="Shlomi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shlomihillel&show_icons=true&hide_border=true" />
