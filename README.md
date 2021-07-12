@@ -57,7 +57,7 @@ These are some of the languages and technologies that I've used in the past / I 
 <br />
 ---
 
- <img align="left" alt="Shlomi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shlomihillel&show_icons=true&hide_border=true" />
+ 
 
 [whatsapp]: https://wa.me/+972547806008
 [linkedin]: https://www.linkedin.com/in/shlomihillel/
