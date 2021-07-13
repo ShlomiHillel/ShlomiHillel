@@ -4,7 +4,7 @@
 - 📫 you can reach me here -> [<img align="center" alt="non" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-<br />
+
 
 
 <!---
