@@ -4,10 +4,6 @@
 - 📫 you can reach me here -> [<img align="center" alt="non" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-<br />
-<br />
-
-
 
 <!---
  <img align="left" alt="Shlomi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shlomihillel&show_icons=true&hide_border=true" />
